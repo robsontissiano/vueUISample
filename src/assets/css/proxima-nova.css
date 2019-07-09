@@ -1,0 +1,123 @@
+/* Black */
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('assets/fonts/fontawesome-free4.7/proximanova-black.woff2') format('woff2'), url('assets/fonts/fontawesome-free4.7/proximanova-black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('assets/fonts/fontawesome-free4.7/proximanova-blackit.woff2') format('woff2'), url('assets/fonts/fontawesome-free4.7/proximanova-blackit.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* Bold */
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('assets/fonts/fontawesome-free4.7/proximanova-bold.woff2') format('woff2'), url('assets/fonts/fontawesome-free4.7/proximanova-bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('assets/fonts/fontawesome-free4.7/proximanova-boldit.woff2') format('woff2'), url('assets/fonts/fontawesome-free4.7/proximanova-boldit.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('assets/fonts/fontawesome-free4.7/proximanova-bold.woff2') format('woff2'), url('assets/fonts/fontawesome-free4.7/proximanova-bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('assets/fonts/fontawesome-free4.7/proximanova-boldit.woff2') format('woff2'), url('assets/fonts/fontawesome-free4.7/proximanova-boldit.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* Extra-Bold */
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('assets/fonts/fontawesome-free4.7/proximanova-extrabold.woff2') format('woff2'), url('assets/fonts/fontawesome-free4.7/proximanova-extrabold.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('assets/fonts/fontawesome-free4.7/proximanova-extraboldit.woff2') format('woff2'), url('assets/fonts/fontawesome-free4.7/proximanova-extraboldit.woff') format('woff');
+  font-weight: 800;
+  font-style: italic;
+}
+
+/* Light */
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('assets/fonts/fontawesome-free4.7/proximanova-light.woff2') format('woff2'), url('assets/fonts/fontawesome-free4.7/proximanova-light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('assets/fonts/fontawesome-free4.7/proximanova-lightit.woff2') format('woff2'), url('assets/fonts/fontawesome-free4.7/proximanova-lightit.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* Regular */
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('assets/fonts/fontawesome-free4.7/proximanova-regular.woff2') format('woff2'), url('assets/fonts/fontawesome-free4.7/proximanova-regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('assets/fonts/fontawesome-free4.7/proximanova-regularit.woff2') format('woff2'), url('assets/fonts/fontawesome-free4.7/proximanova-regularit.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('assets/fonts/fontawesome-free4.7/proximanova-regular.woff2') format('woff2'), url('assets/fonts/fontawesome-free4.7/proximanova-regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('assets/fonts/fontawesome-free4.7/proximanova-regularit.woff2') format('woff2'), url('assets/fonts/fontawesome-free4.7/proximanova-regularit.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* Semibold */
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('assets/fonts/fontawesome-free4.7/proximanova-semibold.woff2') format('woff2'), url('assets/fonts/fontawesome-free4.7/proximanova-semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: url('assets/fonts/fontawesome-free4.7/proximanova-semiboldit.woff2') format('woff2'), url('assets/fonts/fontawesome-free4.7/proximanova-semiboldit.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+}
